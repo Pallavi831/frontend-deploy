@@ -2,6 +2,6 @@ deployment:
   version: IMAGE_VERSION
   imageURL: 557690626059.dkr.ecr.us-east-1.amazonaws.com/expense/dev/frontend
 hpa:
-  utilization: 50
+  utilization: 5
 tgb:
-  arn: arn:aws:elasticloadbalancing:us-east-1:557690626059:targetgroup/expense-dev/6983d95984d0d7f2
+  arn: arn:aws:elasticloadbalancing:us-east-1:557690626059:targetgroup/expense-dev/4c29ea545e753d37
