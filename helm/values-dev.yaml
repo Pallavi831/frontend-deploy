@@ -1,6 +1,6 @@
 deployment:
   # version: IMAGE_VERSION
-  version: 1.0.1
+  version: 1.0.0
 
   imageURL: 557690626059.dkr.ecr.us-east-1.amazonaws.com/expense/dev/frontend
 hpa:
